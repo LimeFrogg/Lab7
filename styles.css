@@ -21,3 +21,10 @@
 .transition-text:hover{
     font-size: 24px;
 }
+.transition-image{
+    opacity: 1;
+    transition: opacity 0.8s
+}
+.transition-image:hover{
+    opacity: 0.5;
+}
