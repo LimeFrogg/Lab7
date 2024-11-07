@@ -53,3 +53,12 @@
     left: 50px;
     margin-top: 20px;
 }
+.translate-div{
+    background-color: lightgray;
+    width:40px;
+    transition: right;
+    position:relative
+}
+.translate-div:hover{
+    right:100px
+}
