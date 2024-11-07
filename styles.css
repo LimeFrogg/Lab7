@@ -5,3 +5,11 @@
 .transition-button:hover{
     background-color: green;
 }
+.transition-div{
+    background-color:lightgreen;
+    width: 100px;
+    transition: width 1s;
+}
+.transition-div:hover{
+    width: 200px;
+}
