@@ -13,3 +13,11 @@
 .transition-div:hover{
     width: 200px;
 }
+.transition-text{
+    background-color: lightpink;
+    font-size: 16px;
+    transition: font-size 0.3s;
+}
+.transition-text:hover{
+    font-size: 24px;
+}
