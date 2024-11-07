@@ -43,3 +43,13 @@
 .scale-image:hover{
     scale:0.75;
 }
+.translate-button{
+    background-color: lightpink;
+    transition: margin-top;
+    transition: left;
+    position:relative
+}
+.translate-button:hover{
+    left: 50px;
+    margin-top: 20px;
+}
