@@ -36,3 +36,10 @@
 .scale-div:hover{
     scale: 1.5;
 }
+.scale-image{
+    scale: 1;
+    transition:scale
+}
+.scale-image:hover{
+    scale:0.75;
+}
