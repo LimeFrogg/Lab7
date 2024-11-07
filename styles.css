@@ -22,9 +22,17 @@
     font-size: 24px;
 }
 .transition-image{
-    opacity: 1;
+    opacity: 1em;
     transition: opacity 0.8s
 }
 .transition-image:hover{
     opacity: 0.5;
+}
+.scale-div{
+    background-color: lightgreen;
+    scale: 1;
+    transition: scale;
+}
+.scale-div:hover{
+    scale: 1.5;
 }
